@@ -6,4 +6,4 @@
 See [Unity docs](https://docs.unity3d.com/Manual/ScriptCompilationAssemblyDefinitionFiles.html)
 
 # How to
-Edit `Scripting Define Symbols` in project settings and run `SampleScene` to test defines manually or use menu to build and run all variants
+Edit `Scripting Define Symbols` in project settings and run `SampleScene` to test defines manually or use `Menu/Build/Build and run all` to compile and run all variants

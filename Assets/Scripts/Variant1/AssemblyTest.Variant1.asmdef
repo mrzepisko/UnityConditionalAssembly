@@ -1,0 +1,17 @@
+{
+    "name": "AssemblyTest.Variant1",
+    "references": [
+        "GUID:82d30ac72f68fb3449d0f671568b70f2"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "VARIANT1"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

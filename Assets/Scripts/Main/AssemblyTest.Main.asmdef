@@ -1,0 +1,19 @@
+{
+    "name": "AssemblyTest.Main",
+    "references": [
+        "GUID:82d30ac72f68fb3449d0f671568b70f2",
+        "GUID:90eb064c66b06a943a0079d28efd65d9",
+        "GUID:54ad3930d18fc3a4d9de882f6539607f",
+        "GUID:e13fa4b174c49fa47a9dff9897a518d2",
+        "GUID:e1fa1ecc113a3984f82fe6c536ad3b45"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
